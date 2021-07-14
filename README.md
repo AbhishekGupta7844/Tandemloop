@@ -3,7 +3,9 @@
 ## Solution 1
 
 #include <iostream>
+    
 #include <math.h>
+    
 using namespace std;
 class Calculator {
     double A, B;
